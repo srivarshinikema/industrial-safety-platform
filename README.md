@@ -467,7 +467,7 @@ MIT License - See LICENSE file for details
 
 For issues, questions, or suggestions:
 - Open an issue on GitHub
-- Contact: hemanth1921@gmail.com
+- Contact: hemanthadapa1921@gmail.com
 
 ---
 
